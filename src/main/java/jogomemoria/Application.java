@@ -1,4 +1,4 @@
-package br.com.jogovelha;
+package br.com.jogomemoria;
 
 import java.util.Arrays;
 import java.util.Scanner;
